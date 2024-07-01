@@ -1,0 +1,3 @@
+- Hello, I’m GuiSsS
+- Im a newbie programmer and composer
+- Im currently learning Python
